@@ -31,4 +31,8 @@ c = hex_compliment(b)
 
 print("Final output is",c)
 print("Hello")
+<<<<<<< HEAD
 print("hey")
+=======
+print("sakshi here")
+>>>>>>> fa3b6ac596bc8a2c8d70325a7dfb13a9ac89854f
